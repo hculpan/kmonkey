@@ -1,0 +1,10 @@
+// We are going to compare 5 and 10
+let five_5 = 5;
+let ten = 10; 
+
+if (!five == ten) {
+    print(five);
+    return;
+} else {
+    print(ten);
+}

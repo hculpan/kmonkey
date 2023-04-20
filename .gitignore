@@ -4,6 +4,10 @@
 *.dll
 *.so
 *.dylib
+kmonkey
+.DS_Store
+*.zip
+long_text.tokens
 
 # Test binary, built with `go test -c`
 *.test
